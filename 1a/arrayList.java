@@ -8,7 +8,7 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 
 import java.util.*;
 
-public class ListOperationsDemo {
+public class arrayList{
 
     public static void main(String[] args) {
         ArrayList<String> arrayList = new ArrayList<>();
