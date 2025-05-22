@@ -68,10 +68,14 @@ arraylistoutput: https://github.com/KANISHKA-k-s/JAVA/blob/main/1a/arrayList.png
 
 6boutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/6b/6boutput.png
 
-6coutputlink:
-7aoutputlink:
-7boutputlink:
-8aoutputlink:
+6coutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/6c/6coutput.png
+
+7aoutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/7a/7aoutput.png
+
+7boutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/7b/7boutput.png
+
+8aoutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/8a/8aoutput.png
+
 8b1outputlink:
 8b2outputlink:
 8c1outputlink:
