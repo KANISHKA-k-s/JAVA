@@ -14,7 +14,7 @@ arraylistoutput: https://github.com/KANISHKA-k-s/JAVA/blob/main/1a/arrayList.png
 
 1b5outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b5output.png
 
-1c1outputlink:
+1c1outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c1output.png
 
 1c2outputlink:
 1c3outputlink:
