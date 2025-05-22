@@ -4,29 +4,29 @@
 
 arraylistoutput: https://github.com/KANISHKA-k-s/JAVA/blob/main/1a/arrayList.png
 
-1b1outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b1output.png
+Array List 1b1outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b1output.png
 
-1b2outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b2output.png
+Array List 1b2outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b2output.png
 
-1b3outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b3output.png
+Array List 1b3outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b3output.png
 
-1b4outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b4output.png
+Array List 1b4outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b4output.png
 
-1b5outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b5output.png
+Array List 1b5outputlink: https://github.com/KANISHKA-k-s/JAVA/blob/main/1b/1b5output.png
 
-1c1outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c1output.png
+Linked List 1c1outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c1output.png
 
-1c2outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c2output.png
+Linked List 1c2outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c2output.png
 
-1c3outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c3output.png
+Linked List 1c3outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c3output.png
 
-1c4outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c4output.png
+Linked List 1c4outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c4output.png
 
-1c5outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c5output.png
+Linked List 1c5outputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/1c/1c5output.png
 
-2aoutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/2a/2aoutput.png
+HashSet Demonstration 2aoutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/2a/2aoutput.png
 
-2boutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/2b/2boutput.png
+HashMap 2boutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/2b/2boutput.png
 
 3aoutputlink:https://github.com/KANISHKA-k-s/JAVA/blob/main/3a/3aoutput.png
 
