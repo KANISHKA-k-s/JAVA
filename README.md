@@ -1,5 +1,4 @@
-#Kanishka shetty ADJassignment Advanced-Java-Assignment(BCS613D)-4AL22CS069
-
+# Kanishka shetty ADJassignment Advanced-Java-Assignment(BCS613D)-4AL22CS069
 
 
 arraylistoutput: https://github.com/KANISHKA-k-s/JAVA/blob/main/1a/arrayList.png
